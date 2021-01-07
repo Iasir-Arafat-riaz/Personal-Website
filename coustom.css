@@ -1,6 +1,94 @@
+body{
+    font-family: 'Redressed', cursive;
+    margin: 5%;
+}
+.Mark{
+    color: Red;
+}
+.half-width{
+            width:50%;
+            float: left;
+            height: 600px;
+}
+
 h1{
-    color: blue;
+    font-size: 52px;
+    line-height: .25;
 }
-p{
-    color: crimson;
+.half-width img{ 
+                width: 100%;
+                
+
 }
+.button{
+          text-decoration: none;   
+          background-image: linear-gradient(55deg, rgb(56, 238, 39),orange); 
+          font-size: 20px;
+          color: blue;
+          padding:8px 15px;
+          border-radius: 5px;
+      }
+      .margin{
+              margin:100px;
+      }
+      h2{
+          color: rgb(35, 2, 88);
+          font-size: 30px;
+          text-align: center;
+      }
+      p{
+          font-size: 25px;
+      }
+      .design{
+          color: #490606;
+      }
+      .resume{
+              text-decoration: none;
+              font-size: 18px;
+              background-image: linear-gradient(50deg, rgb(28, 141, 156), orange);   
+              color: #0d043f; 
+              padding: 7px 12px;
+              border-radius: 3px;
+             }
+             .lst{width: 30%;
+                 float: left;
+                 box-shadow: 10px 10px 40px rgb(63, 63, 48);
+                 height: 500px;
+                 margin: 1%;
+                 border-radius: 5px;
+                padding: 8px;
+             }
+             
+             .lst img{
+                width: 90%;     
+            }
+             .latest{
+                 color: red;
+             }
+            h4{
+                font-size: 30px;
+                text-align: center;
+            }
+            .last{
+               background-image: url(photos/gp.png);
+               background-repeat: no-repeat;
+               background-position: center;
+            }
+            .lst img{
+                width: 50%;
+            }
+            
+            
+            .under{
+                width: 40%;
+                float: left;
+                height: 400px;
+            }
+            .click { text-decoration: none;
+                   background-image: linear-gradient(45deg, tomato,orange);
+                   border-radius: 4px;
+                   padding: 10px 15px;
+            }
+            h5{
+                font-size: 20px;
+            }
